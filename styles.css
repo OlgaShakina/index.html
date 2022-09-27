@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(62, 15, 234);
+    background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?w=1060&t=st=1664321108~exp=1664321708~hmac=bfd0a30c85e9f516be50c6838124e6c2af3067e666b826450430ef10c537e623);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    text-align: center;
+}
+
+.red color {
+    color: rgb(7, 79, 7);
+}
+
+.blue-color {
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
